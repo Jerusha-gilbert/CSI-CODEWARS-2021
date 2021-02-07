@@ -1,0 +1,36 @@
+A bag can hold 3 items. A suitcase can hold 12 bags.
+
+Suitcases are more preferred than bags.
+
+You are given n items. Your task is to fit the n items into x suitcases and y bags. If 1 item is extra, you can ignore it. If 2 items are extra, you can put it into a bag.
+
+Input Format
+
+One line containing integer n - number of items.
+
+Constraints
+
+1 <= n <= 10000
+
+Output Format
+
+Print x and y space separated integers, where x is the number of suitcases and y is the number of bags.
+
+Sample Input 0
+
+24
+Sample Output 0
+
+0 8
+Sample Input 1
+
+120
+Sample Output 1
+
+3 4
+Sample Input 2
+
+100
+Sample Output 2
+
+2 9
